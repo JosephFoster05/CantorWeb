@@ -84,7 +84,7 @@ export default function Home() {
         to adopt innovative and resourceful approaches that both perceive and create opportunities for better lives.
       </p>
       <p>
-        You’ll develop your creative practice whilst interacting with your peers in well-equipped studios, making and 
+        You&apos;ll develop your creative practice whilst interacting with your peers in well-equipped studios, making and 
         digital workshops. At the same time, you&apos;ll learn professional skills by working on applied briefs facilitated 
         through our links with commercial clients, cultural institutions, businesses and organisations.
       </p>

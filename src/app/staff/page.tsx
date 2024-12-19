@@ -33,7 +33,7 @@ export default function StaffPage() {
 
       <h2>Information Systems Services</h2>
       <p>
-        The ISS team delivers the College’s computing facilities, including all hardware and 
+        The ISS team delivers the College&apos;s computing facilities, including all hardware and 
         software. They also run the staff helpdesk.
       </p>
 

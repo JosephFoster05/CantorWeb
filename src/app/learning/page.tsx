@@ -11,7 +11,7 @@ export default function AboutPage() {
 <main>
 
     <img src=".\websiteAssets\CantorLectureTheatre11.jpg"/>
-  <section id="introduction">
+  <section >
     <h2>Introduction</h2>
     <p>
       All students and staff of the College are entitled to register as members of the Library and Resource Centre 
@@ -31,13 +31,13 @@ export default function AboutPage() {
     </p>
     <p>
       Breaches of the rules may be dealt with by specific Library and Resource Centre Disciplinary Action, including the withdrawal of some 
-      access, and if appropriate by invoking the College’s Regulations for Students, in the case of students, or in the case of staff through 
+      access, and if appropriate by invoking the College&apos;s Regulations for Students, in the case of students, or in the case of staff through 
       the appropriate College procedures as set out in the Staff Handbook.
     </p>
   </section>
 
 
-  <section id="access">
+  <section >
     <h2>Rules: Access</h2>
     <div>
       <ul>
@@ -49,8 +49,8 @@ export default function AboutPage() {
         <li>
           Individuals or organisations who are not eligible for membership but have good reason to use the Library and Resource Centre 
           may be admitted, by arrangement, for purposes of study only. Procedures for seeking admission are outlined in the External Services 
-          leaflet. Non-members must sign the Visitors' Book on each visit and may be required to produce written identification. Study use 
-          does not include access to the College's Academic Network.
+          leaflet. Non-members must sign the Visitors&apos; Book on each visit and may be required to produce written identification. Study use 
+          does not include access to the College&apos;s Academic Network.
         </li>
         <li>
           ID cards issued by the College are not transferable from one person to another. The person named on each card is responsible for all 

@@ -14,7 +14,7 @@ export default function StudentPage() {
           At Cantor College, we are committed to providing our students with the best possible 
           environment to learn, create, and innovate. Our state-of-the-art facilities are 
           designed to support your academic journey and help you thrive in your chosen field. 
-          Whether you’re studying computing, design, or technology, our campus offers 
+          Whether you&apos;re studying computing, design, or technology, our campus offers 
           everything you need to excel.
         </p>
 
@@ -42,9 +42,9 @@ export default function StudentPage() {
           <li>
             <h3>Innovation and Makerspace</h3>
             <p>
-              Cantor College’s Innovation and Makerspace is a hub for creativity and invention. 
+              Cantor College&apos;s Innovation and Makerspace is a hub for creativity and invention. 
               This facility is equipped with 3D printers, laser cutters, CNC machines, and other 
-              advanced prototyping tools. Whether you're working on a design project or 
+              advanced prototyping tools. Whether you&apos;re working on a design project or 
               developing a new tech product, this space provides the resources to turn your 
               concepts into reality.
             </p>
@@ -54,8 +54,8 @@ export default function StudentPage() {
             <p>
               The Technology Sandbox is an experimental space where students can explore the 
               latest in VR, AR, and AI technologies. With access to cutting-edge devices and 
-              software, you’ll be able to experiment with emerging technologies and push the 
-              boundaries of what’s possible in your field.
+              software, you&lsquo;ll be able to experiment with emerging technologies and push the 
+              boundaries of what&apos;s possible in your field.
             </p>
           </li>
           <li>
@@ -81,7 +81,7 @@ export default function StudentPage() {
             <h3>Student Hub</h3>
             <p>
               The Student Hub is the social heart of our campus, providing a place for relaxation 
-              and connection. Here, you’ll find a café, lounge areas, and recreational facilities, 
+              and connection. Here, you&apos;ll find a café, lounge areas, and recreational facilities, 
               making it the perfect spot to unwind between classes, meet with friends, or join 
               student-led activities and clubs.
             </p>
@@ -118,7 +118,7 @@ export default function StudentPage() {
 
         <h2>Experience Cantor College</h2>
         <p>
-          Cantor College’s facilities are designed to enhance your learning experience and support 
+          Cantor College&apos;s facilities are designed to enhance your learning experience and support 
           your academic and personal growth. We invite you to explore our campus, discover our 
           resources, and make the most of everything we have to offer.
         </p>

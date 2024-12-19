@@ -9,7 +9,7 @@ export default function ContactPage() {
       <section>
         <div>
           <h2>Get in Touch with Us</h2>
-          <p>We'd love to hear from you! Here's how you can reach us:</p>
+          <p>We&apos;d love to hear from you! Here&apos;s how you can reach us:</p>
         </div>
 
         <div>

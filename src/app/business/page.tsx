@@ -31,7 +31,7 @@ export default function buisnessPage() {
           <h3>Research and Development Partnerships</h3>
           <p>
             Leverage the talent and creativity of our students and faculty by partnering with Cantor 
-            College on research and development projects. Whether you’re looking to explore new 
+            College on research and development projects. Whether you&apos;re looking to explore new 
             technologies, innovate your product line, or solve complex technical challenges, our R&D 
             team is ready to collaborate with you.
           </p>
