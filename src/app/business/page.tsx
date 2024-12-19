@@ -21,7 +21,7 @@ export default function buisnessPage() {
           <h3>Custom Training and Development Programs</h3>
           <p>
             Empower your workforce with skills that matter. Our faculty can develop custom training 
-            programs that address your business's specific needs, whether in advanced computing 
+            programs that address your business&apos;s specific needs, whether in advanced computing 
             technologies, creative design, or the latest in tech innovation. We offer flexible 
             learning options, including on-site workshops, online modules, and blended learning 
             experiences.
